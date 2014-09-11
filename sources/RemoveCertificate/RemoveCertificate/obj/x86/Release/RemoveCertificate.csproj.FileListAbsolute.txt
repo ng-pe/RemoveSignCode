@@ -1,0 +1,11 @@
+d:\Projects\RemoveCertificate\RemoveCertificate\bin\Release\RemoveCertificate.exe
+d:\Projects\RemoveCertificate\RemoveCertificate\bin\Release\RemoveCertificate.pdb
+d:\Projects\RemoveCertificate\RemoveCertificate\obj\x86\Release\ResolveAssemblyReference.cache
+d:\Projects\RemoveCertificate\RemoveCertificate\obj\x86\Release\RemoveCertificate.exe
+d:\Projects\RemoveCertificate\RemoveCertificate\obj\x86\Release\RemoveCertificate.pdb
+d:\Projects\RemoveCertificate\RemoveCertificate\bin\Release\RemoveCertificate.exe.config
+C:\Users\NGO\Documents\GitHub\RemoveSignCode\sources\RemoveCertificate\RemoveCertificate\bin\Release\RemoveCertificate.exe.config
+C:\Users\NGO\Documents\GitHub\RemoveSignCode\sources\RemoveCertificate\RemoveCertificate\obj\x86\Release\RemoveCertificate.exe
+C:\Users\NGO\Documents\GitHub\RemoveSignCode\sources\RemoveCertificate\RemoveCertificate\obj\x86\Release\RemoveCertificate.pdb
+C:\Users\NGO\Documents\GitHub\RemoveSignCode\sources\RemoveCertificate\RemoveCertificate\bin\Release\RemoveCertificate.exe
+C:\Users\NGO\Documents\GitHub\RemoveSignCode\sources\RemoveCertificate\RemoveCertificate\bin\Release\RemoveCertificate.pdb
