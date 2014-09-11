@@ -6,7 +6,7 @@ Coded in C# with Visual Studio Express Editon 2010
 
 Screenshot
 ==========
-
+'''
 Authenticode Removal
 version 1.0
 Usage: RemoveCertificate [OPTIONS]+
@@ -20,3 +20,4 @@ Options:
   -r                         Search recursivity (used with directory)
   -v                         increase debug message verbosity
   -h, --help                 show this message and exit
+'''
